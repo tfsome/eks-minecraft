@@ -20,7 +20,7 @@ First create AWS ECR registries with the following parameters:
 
 Lets build runtime images!
 
-There are two ways to complete this task: you can do and upload the images by yourself with the requirements provided in [2.1] (as advanced task).<br>
+There are two ways to complete this task: you can do and upload the images by yourself with the requirements provided in [2.1] (as an advanced task).<br>
 
 Or you can skip this optional step and use the script [2.2] to buid and upload the images.
 
